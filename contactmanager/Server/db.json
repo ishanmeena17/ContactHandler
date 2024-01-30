@@ -1,0 +1,124 @@
+{
+  "contacts": [
+    {
+      "id": "112",
+      "name": "Harshal",
+      "photo": "https://img.freepik.com/premium-photo/memoji-happy-man-white-background-emoji_826801-6834.jpg?size=626&ext=jpg&ga=GA1.1.125035594.1690478263&semt=sph",
+      "contact": "1234567875432356764321234565432123",
+      "email": "kunal@gmail.com",
+      "title": "Software Engineer",
+      "company": "HCL",
+      "group": "1"
+    },
+    {
+      "id": "114",
+      "name": "Riya",
+      "photo": "https://cdni.iconscout.com/illustration/premium/thumb/woman-profile-8187680-6590622.png",
+      "contact": "2",
+      "email": "riya@gmail.com",
+      "title": "Software Engineer",
+      "company": "HCL",
+      "group": "1"
+    },
+    {
+      "id": "3b45",
+      "name": "Diya",
+      "photo": "https://img.freepik.com/free-vector/young-woman-long-hair-character-icon-isolated_24911-100819.jpg?size=626&ext=jpg&ga=GA1.1.125035594.1690478263&semt=ais",
+      "contact": "987654320",
+      "email": "diya23@gmail.com",
+      "title": "UI/UX Designer",
+      "company": "Baker Hughes"
+    },
+    {
+      "id": "0458",
+      "name": "Ketan",
+      "photo": "https://img.freepik.com/free-vector/blond-man-character-icon-isolated_18591-83007.jpg?size=626&ext=jpg&ga=GA1.1.125035594.1690478263&semt=ais",
+      "contact": "9975112233",
+      "email": "ketan@gmail.com",
+      "title": "Project Manager",
+      "company": "TCS"
+    },
+    {
+      "id": "442c",
+      "name": "Neel",
+      "photo": "https://img.freepik.com/free-vector/blond-man-with-eyeglasses-icon-isolated_24911-100831.jpg?size=626&ext=jpg&ga=GA1.1.125035594.1690478263&semt=ais",
+      "contact": "9850182222",
+      "email": "neel012@gmail.com",
+      "title": "Cyber Security Administrator",
+      "company": "IBM"
+    },
+    {
+      "id": "8c3e",
+      "name": "Nikhil",
+      "photo": "https://img.freepik.com/premium-vector/young-man-avatar-character-vector-illustration-design_24877-18517.jpg?size=626&ext=jpg&ga=GA1.1.125035594.1690478263&semt=ais",
+      "contact": "6543217890",
+      "email": "nikhil@gmail.com",
+      "title": "Associate Analyst",
+      "company": "Capgemini"
+    },
+    {
+      "id": "e19d",
+      "name": "Shweta",
+      "photo": "https://img.freepik.com/premium-vector/3d-smiling-woman-avatar-character-with-turquoise-hair_541075-1060.jpg?size=626&ext=jpg&ga=GA1.1.125035594.1690478263&semt=ais",
+      "contact": "8214567098",
+      "email": "shweta@gmail.com",
+      "title": "Business Analyst",
+      "company": "Cognizant"
+    },
+    {
+      "id": "9a47",
+      "name": "Aryan",
+      "photo": "https://img.freepik.com/premium-vector/3d-man-avatar-happy-smiling-face-icon-young-businessman-student-freelancer_313242-1219.jpg?size=626&ext=jpg&ga=GA1.1.125035594.1690478263&semt=ais",
+      "contact": "9976443210",
+      "email": "aryan@gmail.com",
+      "title": "SDE",
+      "company": "Baker Hughes"
+    },
+    {
+      "id": "e7ba",
+      "name": "Chetan",
+      "photo": "https://img.freepik.com/premium-vector/brunette-man-avatar-portrait-young-guy-vector-illustration-face_217290-1035.jpg?size=626&ext=jpg&ga=GA1.1.125035594.1690478263&semt=ais",
+      "contact": "1234554321",
+      "email": "chetan@gmail.com",
+      "title": "SDE",
+      "company": "Tech M",
+      "group": ""
+    },
+    {
+      "id": "8f0c",
+      "name": "Kritika",
+      "photo": "https://img.freepik.com/free-vector/young-woman-white_25030-39552.jpg?size=626&ext=jpg&ga=GA1.1.125035594.1690478263&semt=ais",
+      "contact": "11",
+      "email": "kritu@gmail.com",
+      "title": "SDE",
+      "company": "TCS",
+      "group": ""
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "college"
+    },
+    {
+      "id": "2",
+      "name": "friends"
+    },
+    {
+      "id": "3",
+      "name": "relatives"
+    },
+    {
+      "id": "4",
+      "name": "school"
+    },
+    {
+      "id": "5",
+      "name": "college"
+    },
+    {
+      "id": "6",
+      "name": "emergency"
+    }
+  ]
+}

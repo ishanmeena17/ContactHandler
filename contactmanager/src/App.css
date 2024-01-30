@@ -1,0 +1,11 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Qwitcher+Grypen&family=Ubuntu:wght@300&display=swap');
+body{
+font-family: 'Ubuntu', sans-serif !important;
+background-color: beige !important;
+}
+.imgPro{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
